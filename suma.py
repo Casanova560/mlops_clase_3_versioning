@@ -1,4 +1,10 @@
 def suma(a,b):
+    """
+    sumar dos numeros
+    :param a:
+    :param b:
+    :return:
+    """
     return a+b
 
 if __name__ == '__main__':
